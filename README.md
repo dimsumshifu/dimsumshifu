@@ -3,11 +3,8 @@
 - 👋 Hi, I’m @Lucas
 - 👀 I’m interested in front-end development and UX/UI design
 - 🌱 I’m currently learning front-end development and UX/UI design
+- :mailbox_with_mail: connect with me at sheng.x.tan@gmail.com
 
-
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-view raw
 
 <!---
 dimsumshifu/dimsumshifu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
