@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Lucas
 - 👀 I’m interested in front-end development and UX/UI design
 - 🌱 I’m currently learning front-end development and UX/UI design
-- :mailbox_with_mail: connect with me at sheng.x.tan@gmail.com
+- :mailbox_with_mail: You can connect with me at sheng.x.tan@gmail.com
 
 
 <!---
