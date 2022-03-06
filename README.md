@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dimsumshifu
+- 👋 Hi, I’m @Lucas
 - 👀 I’m interested in front-end development and UX/UI design
 - 🌱 I’m currently learning front-end development and UX/UI design
 
