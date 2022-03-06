@@ -6,8 +6,6 @@
 - :mailbox_with_mail: You can connect with me at sheng.x.tan@gmail.com
 
 
-
-<
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][2.2]][3].
