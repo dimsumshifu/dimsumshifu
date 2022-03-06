@@ -10,7 +10,7 @@
 <
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][3].
+You can find me on [![LinkedIn][2.2]][3].
 
 <!-- Icons -->
 
@@ -19,8 +19,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][3].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[3]: https://www.linkedin.com/in/heinz-martin/
+[3]: https://www.linkedin.com/in/lucas-tan-081b66b8/
 
 <!---
 dimsumshifu/dimsumshifu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
