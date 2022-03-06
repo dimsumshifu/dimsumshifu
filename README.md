@@ -1,3 +1,5 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 - 👋 Hi, I’m @Lucas
 - 👀 I’m interested in front-end development and UX/UI design
 - 🌱 I’m currently learning front-end development and UX/UI design
