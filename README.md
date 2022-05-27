@@ -1,10 +1,10 @@
 # Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-👋 Hi, I’m Lucas. Nice to meet you. I'm very passionate about web development, software development and UX/UI design. I'm currently in Lighthouse Labs to build my skills to become a successful developer.
+👋 Hi, I’m Lucas. Nice to meet you. I'm a fullstack developer and am very passionate about web development, software development and UX/UI design. 
 
 
-- 👀 I’m interested in front-end development and UX/UI design
-- 🌱 I’m currently learning front-end development and UX/UI design
+- 👀 I’m interested in fullstack development, front-end development and UX/UI design
+- 🌱 I’m currently learning React libraries and API
 - :mailbox_with_mail: You can connect with me at sheng.x.tan@gmail.com
 
 
