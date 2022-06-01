@@ -1,6 +1,6 @@
 # Hey, I'm Lucas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-👋 Hi, I’m Lucas. Nice to meet you. I'm a fullstack developer and am very passionate about web development, software development and UX/UI design. 
+👋 Nice to meet you. I'm a fullstack developer and am very passionate about web development, software development and UX/UI design. 
 
 
 - 👀 I’m interested in fullstack development, front-end development and UX/UI design
