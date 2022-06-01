@@ -1,4 +1,4 @@
-# Hey, I'm Lucas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Lucas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
 
 👋 Nice to meet you. I'm a fullstack developer and am very passionate about web development, software development and UX/UI design. 
 
